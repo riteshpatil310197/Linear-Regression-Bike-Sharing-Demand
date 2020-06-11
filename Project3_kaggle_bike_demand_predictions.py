@@ -11,7 +11,7 @@ import math
 import numpy as np
 
 #STEP-1-->Read Data
-bikes=pd.read_csv("R:\\Data Science Material\\Udemy Data Science\\Resources\\006 - Kaggle Project\\hour.csv")
+bikes=pd.read_csv("path of csv file")
 
 #STEP-2-->Preliminary analysis and feature selection
 bikes_prep = bikes.copy()
